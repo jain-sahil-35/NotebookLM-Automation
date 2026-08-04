@@ -20,19 +20,19 @@ The project supports both **single videos** and **entire YouTube playlists**, au
 
 ## Running the Automation
 
-![Running Automation](assets/Screenshot(75).png)
+![Running Automation](assets/automation.png)
 
 ---
 
 ## NotebookLM Generating Notes
 
-![NotebookLM](assets/Screenshot(76).png)
+![NotebookLM](assets/notebooklm.png)
 
 ---
 
 ## Generated Markdown Notes
 
-![Output Folder](assets/Screenshot(77).png)
+![Output Folder](assets/output.png)
 
 ---
 
