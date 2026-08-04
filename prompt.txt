@@ -1,0 +1,1 @@
+Generate comprehensive Markdown notes covering every concept discussed in the video. Do not omit details. Use headings, bullet points, tables where appropriate, and Mermaid diagrams if helpful. Return only the notes in Markdown.

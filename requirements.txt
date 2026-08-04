@@ -1,0 +1,8 @@
+# Browser automation
+playwright>=1.54.0
+
+# YouTube metadata extraction
+yt-dlp>=2026.7.4
+
+# Clipboard access
+pyperclip>=1.9.0
